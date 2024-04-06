@@ -1,16 +1,16 @@
-### Hi there 👋
+# nago3
 
-<!--
-**nago3/nago3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer(CTO) in Japan.
 
-Here are some ideas to get you started:
+## Basic Information
+- **Occupation:** Engineer, specializing in Cloud computing
+- **Location:** Tokyo/Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests & Specialization
+- **Interests:** AWS, Python, Cloud Computing, Software Development, etc.
+- **Specialization:** AWS services, Python, TypeScript development, Blockchain, etc.
+
+## Skills
+- **Languages:** Python, TypeScript, React.js, Node.js, Solidity
+- **AWS Services:** Had several AWS certifications (expired)
+- **Other Skills:** Illustrator, Web Directions, Frontend
